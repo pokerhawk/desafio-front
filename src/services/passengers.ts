@@ -39,7 +39,7 @@ export const getUser = async (id?: string):Promise<any> => {
 
 export const createPassenger = async (body: any) =>{
     try {
-        const response = await api.post(`/trips`, body)
+        const response = await api.post(`/trips/passenger`, body)
         return response.data;
     } catch (error) {
         throw error;
