@@ -1,0 +1,1887 @@
+
+[
+  {
+    "name": "Aalborg Airport",
+    "iata_code": "AAL"
+  },
+  {
+    "name": "Athens - Eleftherios Venizelos",
+    "iata_code": "ATH"
+  },
+  {
+    "name": "Al Ain - Terminal de Onibus",
+    "iata_code": "AAN"
+  },
+  {
+    "name": "Araxá",
+    "iata_code": "AAX"
+  },
+  {
+    "name": "Alta Floresta",
+    "iata_code": "AFL"
+  },
+  {
+    "name": "Vilhena",
+    "iata_code": "BVH"
+  },
+  {
+    "name": "Caruaru",
+    "iata_code": "CAU"
+  },
+  {
+    "name": "Corumbá",
+    "iata_code": "CMG"
+  },
+  {
+    "name": "Lages - Correia Pinto",
+    "iata_code": "EEA"
+  },
+  {
+    "name": "Eirunepé",
+    "iata_code": "ERN"
+  },
+  {
+    "name": "Feira de Santana",
+    "iata_code": "FEC"
+  },
+  {
+    "name": "Guanambi",
+    "iata_code": "GNM"
+  },
+  {
+    "name": "Guarapuava",
+    "iata_code": "GPB"
+  },
+  {
+    "name": "Imperatriz",
+    "iata_code": "IMP"
+  },
+  {
+    "name": "Itaituba",
+    "iata_code": "ITB"
+  },
+  {
+    "name": "Jaguaruna - Criciúma",
+    "iata_code": "JJG"
+  },
+  {
+    "name": "Ji-Paraná",
+    "iata_code": "JPR"
+  },
+  {
+    "name": "Bauru - Arealva",
+    "iata_code": "JTC"
+  },
+  {
+    "name": "Marília",
+    "iata_code": "MII"
+  },
+  {
+    "name": "Mossoró",
+    "iata_code": "MVF"
+  },
+  {
+    "name": "São Raimundo Nonato",
+    "iata_code": "NSR"
+  },
+  {
+    "name": "Cacoal",
+    "iata_code": "OAL"
+  },
+  {
+    "name": "Paulo Afonso",
+    "iata_code": "PAV"
+  },
+  {
+    "name": "Ponta Grossa",
+    "iata_code": "PGZ"
+  },
+  {
+    "name": "Parnaíba",
+    "iata_code": "PHB"
+  },
+  {
+    "name": "Parintins",
+    "iata_code": "PIN"
+  },
+  {
+    "name": "Ponta Porã",
+    "iata_code": "PMG"
+  },
+  {
+    "name": "Patos de Minas",
+    "iata_code": "POJ"
+  },
+  {
+    "name": "Pato Branco",
+    "iata_code": "PTO"
+  },
+  {
+    "name": "Rondonópolis",
+    "iata_code": "ROO"
+  },
+  {
+    "name": "Rio Verde",
+    "iata_code": "RVD"
+  },
+  {
+    "name": "São Gabriel da Cachoeira",
+    "iata_code": "SJL"
+  },
+  {
+    "name": "Tabatinga",
+    "iata_code": "TBT"
+  },
+  {
+    "name": "Tefé",
+    "iata_code": "TFF"
+  },
+  {
+    "name": "Três Lagoas",
+    "iata_code": "TJL"
+  },
+  {
+    "name": "Porto Trombetas",
+    "iata_code": "TMT"
+  },
+  {
+    "name": "Aberdeen",
+    "iata_code": "ABZ"
+  },
+  {
+    "name": "Buenos Aires - Aeroparque",
+    "iata_code": "AEP"
+  },
+  {
+    "name": "Alesund",
+    "iata_code": "AES"
+  },
+  {
+    "name": "San Rafael",
+    "iata_code": "AFA"
+  },
+  {
+    "name": "Aracaju",
+    "iata_code": "AJU"
+  },
+  {
+    "name": "Schiphol Airport",
+    "iata_code": "AMS"
+  },
+  {
+    "name": "Estocolmo Arlanda",
+    "iata_code": "ARN"
+  },
+  {
+    "name": "Araçatuba",
+    "iata_code": "ARU"
+  },
+  {
+    "name": "Assunção",
+    "iata_code": "ASU"
+  },
+  {
+    "name": "Atlanta",
+    "iata_code": "ATL"
+  },
+  {
+    "name": "Altamira",
+    "iata_code": "ATM"
+  },
+  {
+    "name": "Austin",
+    "iata_code": "AUS"
+  },
+  {
+    "name": "Araguaina",
+    "iata_code": "AUX"
+  },
+  {
+    "name": "Barretos",
+    "iata_code": "BAT"
+  },
+  {
+    "name": "Barcelona - El Prat",
+    "iata_code": "BCN"
+  },
+  {
+    "name": "Belém",
+    "iata_code": "BEL"
+  },
+  {
+    "name": "Barbados",
+    "iata_code": "BGI"
+  },
+  {
+    "name": "Bergen",
+    "iata_code": "BGO"
+  },
+  {
+    "name": "Bahia Blanca",
+    "iata_code": "BHI"
+  },
+  {
+    "name": "Birmingham",
+    "iata_code": "BHX"
+  },
+  {
+    "name": "Bilbao",
+    "iata_code": "BIO"
+  },
+  {
+    "name": "León",
+    "iata_code": "BJX"
+  },
+  {
+    "name": "Billund Airport",
+    "iata_code": "BLL"
+  },
+  {
+    "name": "Bolonha",
+    "iata_code": "BLQ"
+  },
+  {
+    "name": "Bordeaux Airport",
+    "iata_code": "BOD"
+  },
+  {
+    "name": "Bogotá",
+    "iata_code": "BOG"
+  },
+  {
+    "name": "Boston",
+    "iata_code": "BOS"
+  },
+  {
+    "name": "Porto Seguro",
+    "iata_code": "BPS"
+  },
+  {
+    "name": "Barreiras",
+    "iata_code": "BRA"
+  },
+  {
+    "name": "Bariloche ",
+    "iata_code": "BRC"
+  },
+  {
+    "name": "Bremen Airport",
+    "iata_code": "BRE"
+  },
+  {
+    "name": "Bristol",
+    "iata_code": "BRS"
+  },
+  {
+    "name": "Brasília",
+    "iata_code": "BSB"
+  },
+  {
+    "name": "EuroAirport Swiss",
+    "iata_code": "BSL"
+  },
+  {
+    "name": "Boa Vista",
+    "iata_code": "BVB"
+  },
+  {
+    "name": "Cascavel",
+    "iata_code": "CAC"
+  },
+  {
+    "name": "Campos dos Goitacazes",
+    "iata_code": "CAW"
+  },
+  {
+    "name": "Cochabamba",
+    "iata_code": "CBB"
+  },
+  {
+    "name": "Paris - Charles De Gaulle",
+    "iata_code": "CDG"
+  },
+  {
+    "name": "Cabo Frio",
+    "iata_code": "CFB"
+  },
+  {
+    "name": "Cuiabá",
+    "iata_code": "CGB"
+  },
+  {
+    "name": "São Paulo - Congonhas",
+    "iata_code": "CGH"
+  },
+  {
+    "name": "Campo Grande",
+    "iata_code": "CGR"
+  },
+  {
+    "name": "Parauapebas - Carajás",
+    "iata_code": "CKS"
+  },
+  {
+    "name": "Charlotte",
+    "iata_code": "CLT"
+  },
+  {
+    "name": "Caldas Novas",
+    "iata_code": "CLV"
+  },
+  {
+    "name": "Belo Horizonte - Confins",
+    "iata_code": "CNF"
+  },
+  {
+    "name": "Corrientes",
+    "iata_code": "CNQ"
+  },
+  {
+    "name": "Córdoba",
+    "iata_code": "COR"
+  },
+  {
+    "name": "San Martín de los Andes",
+    "iata_code": "CPC"
+  },
+  {
+    "name": "Copenhagen Airport",
+    "iata_code": "CPH"
+  },
+  {
+    "name": "Campina Grande",
+    "iata_code": "CPV"
+  },
+  {
+    "name": "Comodoro Rivadavia",
+    "iata_code": "CRD"
+  },
+  {
+    "name": "Catamarca",
+    "iata_code": "CTC"
+  },
+  {
+    "name": "Cancún",
+    "iata_code": "CUN"
+  },
+  {
+    "name": "Cincinnati",
+    "iata_code": "CVG"
+  },
+  {
+    "name": "Curitiba",
+    "iata_code": "CWB"
+  },
+  {
+    "name": "Cardiff",
+    "iata_code": "CWL"
+  },
+  {
+    "name": "Caxias do Sul - Gramado e Canela",
+    "iata_code": "CXJ"
+  },
+  {
+    "name": "Cruzeiro do Sul",
+    "iata_code": "CZS"
+  },
+  {
+    "name": "Washington - Ronald Reagan",
+    "iata_code": "DCA"
+  },
+  {
+    "name": "Denver",
+    "iata_code": "DEN"
+  },
+  {
+    "name": "Dallas - Fort Worth",
+    "iata_code": "DFW"
+  },
+  {
+    "name": "Dourados",
+    "iata_code": "DOU"
+  },
+  {
+    "name": "Detroit",
+    "iata_code": "DTW"
+  },
+  {
+    "name": "Dublin Airport",
+    "iata_code": "DUB"
+  },
+  {
+    "name": "Duesseldorf International",
+    "iata_code": "DUS"
+  },
+  {
+    "name": "Edinburgh",
+    "iata_code": "EDI"
+  },
+  {
+    "name": "Eagle County Airport",
+    "iata_code": "EGE"
+  },
+  {
+    "name": "Esquel",
+    "iata_code": "EQS"
+  },
+  {
+    "name": "Nova Iorque - Newark",
+    "iata_code": "EWR"
+  },
+  {
+    "name": "Buenos Aires - Ezeiza",
+    "iata_code": "EZE"
+  },
+  {
+    "name": "Roma – Fiumicino",
+    "iata_code": "FCO"
+  },
+  {
+    "name": "Fernando de Noronha",
+    "iata_code": "FEN"
+  },
+  {
+    "name": "Fort Lauderdale",
+    "iata_code": "FLL"
+  },
+  {
+    "name": "Florianópolis",
+    "iata_code": "FLN"
+  },
+  {
+    "name": "Florença",
+    "iata_code": "FLR"
+  },
+  {
+    "name": "Formosa",
+    "iata_code": "FMA"
+  },
+  {
+    "name": "Fortaleza",
+    "iata_code": "FOR"
+  },
+  {
+    "name": "Frankfurt International Airport",
+    "iata_code": "FRA"
+  },
+  {
+    "name": "Franca",
+    "iata_code": "FRC"
+  },
+  {
+    "name": "El Calafate",
+    "iata_code": "FTE"
+  },
+  {
+    "name": "Guadalajara",
+    "iata_code": "GDL"
+  },
+  {
+    "name": "Rio de Janeiro - Galeão",
+    "iata_code": "GIG"
+  },
+  {
+    "name": "Glasgow",
+    "iata_code": "GLA"
+  },
+  {
+    "name": "Genova",
+    "iata_code": "GOA"
+  },
+  {
+    "name": "Gotemburgo Landvetter",
+    "iata_code": "GOT"
+  },
+  {
+    "name": "Ilhas Galápagos",
+    "iata_code": "GPS"
+  },
+  {
+    "name": "São Paulo - Guarulhos",
+    "iata_code": "GRU"
+  },
+  {
+    "name": "Geneva",
+    "iata_code": "GVA"
+  },
+  {
+    "name": "Governador Valadares",
+    "iata_code": "GVR"
+  },
+  {
+    "name": "Guayaquil",
+    "iata_code": "GYE"
+  },
+  {
+    "name": "Goiânia",
+    "iata_code": "GYN"
+  },
+  {
+    "name": "Hannover Airport",
+    "iata_code": "HAJ"
+  },
+  {
+    "name": "Hamburg Airport",
+    "iata_code": "HAM"
+  },
+  {
+    "name": "Honolulu International Airport",
+    "iata_code": "HNL"
+  },
+  {
+    "name": "Humberside",
+    "iata_code": "HUY"
+  },
+  {
+    "name": "Washington - Dulles",
+    "iata_code": "IAD"
+  },
+  {
+    "name": "Houston",
+    "iata_code": "IAH"
+  },
+  {
+    "name": "Iguazu",
+    "iata_code": "IGR"
+  },
+  {
+    "name": "Foz do Iguaçu – Iguazu Falls",
+    "iata_code": "IGU"
+  },
+  {
+    "name": "Indianapolis",
+    "iata_code": "IND"
+  },
+  {
+    "name": "Ilhéus",
+    "iata_code": "IOS"
+  },
+  {
+    "name": "Ipatinga / Vale do Aço",
+    "iata_code": "IPN"
+  },
+  {
+    "name": "La Rioja",
+    "iata_code": "IRJ"
+  },
+  {
+    "name": "Istambul",
+    "iata_code": "IST"
+  },
+  {
+    "name": "Juiz de Fora -Zona da Mata",
+    "iata_code": "IZA"
+  },
+  {
+    "name": "Juazeiro do Norte",
+    "iata_code": "JDO"
+  },
+  {
+    "name": "Nova Iorque - John F. Kennedy",
+    "iata_code": "JFK"
+  },
+  {
+    "name": "Jericoacoara",
+    "iata_code": "JJD"
+  },
+  {
+    "name": "Joinville",
+    "iata_code": "JOI"
+  },
+  {
+    "name": "João Pessoa",
+    "iata_code": "JPA"
+  },
+  {
+    "name": "Jujuy",
+    "iata_code": "JUJ"
+  },
+  {
+    "name": "Kristiansand",
+    "iata_code": "KRS"
+  },
+  {
+    "name": "Las Vegas",
+    "iata_code": "LAS"
+  },
+  {
+    "name": "Los Angeles",
+    "iata_code": "LAX"
+  },
+  {
+    "name": "Leeds/Bradford",
+    "iata_code": "LBA"
+  },
+  {
+    "name": "Londrina",
+    "iata_code": "LDB"
+  },
+  {
+    "name": "Nova Iorque - La Guardia",
+    "iata_code": "LGA"
+  },
+  {
+    "name": "London - Heathrow",
+    "iata_code": "LHR"
+  },
+  {
+    "name": "Lima",
+    "iata_code": "LIM"
+  },
+  {
+    "name": "Milão - Linate",
+    "iata_code": "LIN"
+  },
+  {
+    "name": "Lisboa",
+    "iata_code": "LIS"
+  },
+  {
+    "name": "La Paz – El Alto",
+    "iata_code": "LPB"
+  },
+  {
+    "name": "Linkoping Airport",
+    "iata_code": "LPI"
+  },
+  {
+    "name": "San Luis",
+    "iata_code": "LUQ"
+  },
+  {
+    "name": "Lyon Satolas Airport",
+    "iata_code": "LYS"
+  },
+  {
+    "name": "Marabá",
+    "iata_code": "MAB"
+  },
+  {
+    "name": "Madrid - Barajas",
+    "iata_code": "MAD"
+  },
+  {
+    "name": "Manchester",
+    "iata_code": "MAN"
+  },
+  {
+    "name": "Manaus",
+    "iata_code": "MAO"
+  },
+  {
+    "name": "Orlando",
+    "iata_code": "MCO"
+  },
+  {
+    "name": "Macapá",
+    "iata_code": "MCP"
+  },
+  {
+    "name": "Maceió",
+    "iata_code": "MCZ"
+  },
+  {
+    "name": "Mendoza",
+    "iata_code": "MDZ"
+  },
+  {
+    "name": "Cidade do México",
+    "iata_code": "MEX"
+  },
+  {
+    "name": "Maringá",
+    "iata_code": "MGF"
+  },
+  {
+    "name": "Miami",
+    "iata_code": "MIA"
+  },
+  {
+    "name": "Durham",
+    "iata_code": "MME"
+  },
+  {
+    "name": "Montes Claros",
+    "iata_code": "MOC"
+  },
+  {
+    "name": "Minneapolis",
+    "iata_code": "MSP"
+  },
+  {
+    "name": "New Orleans",
+    "iata_code": "MSY"
+  },
+  {
+    "name": "Monterrey",
+    "iata_code": "MTY"
+  },
+  {
+    "name": "Munich International",
+    "iata_code": "MUC"
+  },
+  {
+    "name": "Montevidéu",
+    "iata_code": "MVD"
+  },
+  {
+    "name": "Milão - Malpensa",
+    "iata_code": "MXP"
+  },
+  {
+    "name": "Napoles",
+    "iata_code": "NAP"
+  },
+  {
+    "name": "Natal",
+    "iata_code": "NAT"
+  },
+  {
+    "name": "Nice",
+    "iata_code": "NCE"
+  },
+  {
+    "name": "Newcastle",
+    "iata_code": "NCL"
+  },
+  {
+    "name": "Neuquen",
+    "iata_code": "NQN"
+  },
+  {
+    "name": "Nuremberg Airport",
+    "iata_code": "NUE"
+  },
+  {
+    "name": "Navegantes",
+    "iata_code": "NVT"
+  },
+  {
+    "name": "Norwich",
+    "iata_code": "NWI"
+  },
+  {
+    "name": "Sinop",
+    "iata_code": "OPS"
+  },
+  {
+    "name": "Chicago",
+    "iata_code": "ORD"
+  },
+  {
+    "name": "Oslo Gardemoen",
+    "iata_code": "OSL"
+  },
+  {
+    "name": "Paramaribo",
+    "iata_code": "PBM"
+  },
+  {
+    "name": "Punta Del Este",
+    "iata_code": "PDP"
+  },
+  {
+    "name": "Portland",
+    "iata_code": "PDX"
+  },
+  {
+    "name": "Passo Fundo ",
+    "iata_code": "PFB"
+  },
+  {
+    "name": "Filadelfia",
+    "iata_code": "PHL"
+  },
+  {
+    "name": "Phoenix",
+    "iata_code": "PHX"
+  },
+  {
+    "name": "Belo Horizonte - Pampulha",
+    "iata_code": "PLU"
+  },
+  {
+    "name": "Palmas",
+    "iata_code": "PMW"
+  },
+  {
+    "name": "Petrolina",
+    "iata_code": "PNZ"
+  },
+  {
+    "name": "Porto Alegre",
+    "iata_code": "POA"
+  },
+  {
+    "name": "Presidente Prudente",
+    "iata_code": "PPB"
+  },
+  {
+    "name": "Posadas",
+    "iata_code": "PSS"
+  },
+  {
+    "name": "Cidade do Panamá",
+    "iata_code": "PTY"
+  },
+  {
+    "name": "Punta Cana",
+    "iata_code": "PUJ"
+  },
+  {
+    "name": "Porto Velho",
+    "iata_code": "PVH"
+  },
+  {
+    "name": "Ribeirão Preto",
+    "iata_code": "RAO"
+  },
+  {
+    "name": "Rio Branco",
+    "iata_code": "RBR"
+  },
+  {
+    "name": "Raleigh/Durham",
+    "iata_code": "RDU"
+  },
+  {
+    "name": "Recife",
+    "iata_code": "REC"
+  },
+  {
+    "name": "Trelew",
+    "iata_code": "REL"
+  },
+  {
+    "name": "Resistencia",
+    "iata_code": "RES"
+  },
+  {
+    "name": "Rio Gallegos",
+    "iata_code": "RGL"
+  },
+  {
+    "name": "Rio Hondo",
+    "iata_code": "RHD"
+  },
+  {
+    "name": "Rosario",
+    "iata_code": "ROS"
+  },
+  {
+    "name": "Santana do Livramento",
+    "iata_code": "RVY"
+  },
+  {
+    "name": "San Diego",
+    "iata_code": "SAN"
+  },
+  {
+    "name": "Santiago",
+    "iata_code": "SCL"
+  },
+  {
+    "name": "Santiago del Estero",
+    "iata_code": "SDE"
+  },
+  {
+    "name": "Rio de Janeiro - Santos Dumont",
+    "iata_code": "SDU"
+  },
+  {
+    "name": "Seattle",
+    "iata_code": "SEA"
+  },
+  {
+    "name": "Santa Fe",
+    "iata_code": "SFN"
+  },
+  {
+    "name": "São Francisco",
+    "iata_code": "SFO"
+  },
+  {
+    "name": "San José - Califórnia",
+    "iata_code": "SJC"
+  },
+  {
+    "name": "San José del Cabo",
+    "iata_code": "SJD"
+  },
+  {
+    "name": "São José do Rio Preto - Olímpia",
+    "iata_code": "SJP"
+  },
+  {
+    "name": "Salta",
+    "iata_code": "SLA"
+  },
+  {
+    "name": "Salt Lake City",
+    "iata_code": "SLC"
+  },
+  {
+    "name": "São Luis",
+    "iata_code": "SLZ"
+  },
+  {
+    "name": "Sorriso",
+    "iata_code": "SMT"
+  },
+  {
+    "name": "Sucre Airport",
+    "iata_code": "SRE"
+  },
+  {
+    "name": "Salvador",
+    "iata_code": "SSA"
+  },
+  {
+    "name": "Saint Louis",
+    "iata_code": "STL"
+  },
+  {
+    "name": "Santarém",
+    "iata_code": "STM"
+  },
+  {
+    "name": "Stuttgart Airport",
+    "iata_code": "STR"
+  },
+  {
+    "name": "Stavanger",
+    "iata_code": "SVG"
+  },
+  {
+    "name": "Tobago",
+    "iata_code": "TAB"
+  },
+  {
+    "name": "Teresina",
+    "iata_code": "THE"
+  },
+  {
+    "name": "Tijuana",
+    "iata_code": "TIJ"
+  },
+  {
+    "name": "Toulouse",
+    "iata_code": "TLS"
+  },
+  {
+    "name": "Tampa",
+    "iata_code": "TPA"
+  },
+  {
+    "name": "Trondheim",
+    "iata_code": "TRD"
+  },
+  {
+    "name": "Oslo Sandefjord",
+    "iata_code": "TRF"
+  },
+  {
+    "name": "Turin",
+    "iata_code": "TRN"
+  },
+  {
+    "name": "Tucuman",
+    "iata_code": "TUC"
+  },
+  {
+    "name": "Berlin - Brandenburg Airport",
+    "iata_code": "BER"
+  },
+  {
+    "name": "San Juan",
+    "iata_code": "UAQ"
+  },
+  {
+    "name": "Uberaba",
+    "iata_code": "UBA"
+  },
+  {
+    "name": "Uberlândia",
+    "iata_code": "UDI"
+  },
+  {
+    "name": "Quito",
+    "iata_code": "UIO"
+  },
+  {
+    "name": "Ushuaia",
+    "iata_code": "USH"
+  },
+  {
+    "name": "Veneza",
+    "iata_code": "VCE"
+  },
+  {
+    "name": "São Paulo - Campinas - Viracopos",
+    "iata_code": "VCP"
+  },
+  {
+    "name": "Vitória da Conquista",
+    "iata_code": "VDC"
+  },
+  {
+    "name": "Viedma",
+    "iata_code": "VDM"
+  },
+  {
+    "name": "Vitória",
+    "iata_code": "VIX"
+  },
+  {
+    "name": "Santa Cruz de la Sierra",
+    "iata_code": "VVI"
+  },
+  {
+    "name": "Chapecó",
+    "iata_code": "XAP"
+  },
+  {
+    "name": "Dubai – Terminal de Onibus",
+    "iata_code": "XNB"
+  },
+  {
+    "name": "Ottawa",
+    "iata_code": "YOW"
+  },
+  {
+    "name": "Montreal",
+    "iata_code": "YUL"
+  },
+  {
+    "name": "Vancouver",
+    "iata_code": "YVR"
+  },
+  {
+    "name": "Toronto",
+    "iata_code": "YYZ"
+  },
+  {
+    "name": "Zurich",
+    "iata_code": "ZRH"
+  },
+  {
+    "name": "Rodriguez Ballon Airport",
+    "iata_code": "AQP"
+  },
+  {
+    "name": "Barranquilla",
+    "iata_code": "BAQ"
+  },
+  {
+    "name": "Fort-de-France - Martinica",
+    "iata_code": "FDF"
+  },
+  {
+    "name": "Manta",
+    "iata_code": "MEC"
+  },
+  {
+    "name": "Porto Príncipe",
+    "iata_code": "PAP"
+  },
+  {
+    "name": "Aeroporto Internacional de Piarco",
+    "iata_code": "POS"
+  },
+  {
+    "name": "San Pedro Sula",
+    "iata_code": "SAP"
+  },
+  {
+    "name": "Una-Comandatuba",
+    "iata_code": "UNA"
+  },
+  {
+    "name": "Bonito",
+    "iata_code": "BYO"
+  },
+  {
+    "name": "Uruguaiana",
+    "iata_code": "URG"
+  },
+  {
+    "name": "Pelotas",
+    "iata_code": "PET"
+  },
+  {
+    "name": "Pereira",
+    "iata_code": "PEI"
+  },
+  {
+    "name": "Medellín",
+    "iata_code": "MDE"
+  },
+  {
+    "name": "Cali",
+    "iata_code": "CLO"
+  },
+  {
+    "name": "Cartagena",
+    "iata_code": "CTG"
+  },
+  {
+    "name": "Bucaramanga",
+    "iata_code": "BGA"
+  },
+  {
+    "name": "San Andrés",
+    "iata_code": "ADZ"
+  },
+  {
+    "name": "Aruba",
+    "iata_code": "AUA"
+  },
+  {
+    "name": "Guatemala",
+    "iata_code": "GUA"
+  },
+  {
+    "name": "San José - Costa Rica",
+    "iata_code": "SJO"
+  },
+  {
+    "name": "San Juan",
+    "iata_code": "SJU"
+  },
+  {
+    "name": "San Salvador",
+    "iata_code": "SAL"
+  },
+  {
+    "name": "Santo Domingo",
+    "iata_code": "SDQ"
+  },
+  {
+    "name": "Santo Ângelo",
+    "iata_code": "GEL"
+  },
+  {
+    "name": "Santa Maria",
+    "iata_code": "RIA"
+  },
+  {
+    "name": "Mar del Plata",
+    "iata_code": "MDQ"
+  },
+  {
+    "name": "Brest",
+    "iata_code": "BES"
+  },
+  {
+    "name": "Clermont-Ferrand",
+    "iata_code": "CFE"
+  },
+  {
+    "name": "Montpellier",
+    "iata_code": "MPL"
+  },
+  {
+    "name": "Marseille",
+    "iata_code": "MRS"
+  },
+  {
+    "name": "Nantes",
+    "iata_code": "NTE"
+  },
+  {
+    "name": "Pau",
+    "iata_code": "PUF"
+  },
+  {
+    "name": "Rennes",
+    "iata_code": "RNS"
+  },
+  {
+    "name": "Caracas",
+    "iata_code": "CCS"
+  },
+  {
+    "name": "Curaçao",
+    "iata_code": "CUR"
+  },
+  {
+    "name": "Nassau",
+    "iata_code": "NAS"
+  },
+  {
+    "name": "Montego Bay",
+    "iata_code": "MBJ"
+  },
+  {
+    "name": "Manágua",
+    "iata_code": "MGA"
+  },
+  {
+    "name": "São Martinho",
+    "iata_code": "SXM"
+  },
+  {
+    "name": "Georgetown",
+    "iata_code": "GEO"
+  },
+  {
+    "name": "Kingston",
+    "iata_code": "KIN"
+  },
+  {
+    "name": "Maracaibo",
+    "iata_code": "MAR"
+  },
+  {
+    "name": "São Paulo - São José dos Campos",
+    "iata_code": "SJK"
+  },
+  {
+    "name": "Rio Grande",
+    "iata_code": "RGA"
+  },
+  {
+    "name": "Santa Rosa",
+    "iata_code": "RSA"
+  },
+  {
+    "name": "Lençóis/Chapada Diamantina",
+    "iata_code": "LEC"
+  },
+  {
+    "name": "Península de Maraú",
+    "iata_code": "MUU"
+  },
+  {
+    "name": "Mucugê",
+    "iata_code": "CHD"
+  },
+  {
+    "name": "Boipeba",
+    "iata_code": "PBA"
+  },
+  {
+    "name": "Morro de São Paulo",
+    "iata_code": "MXQ"
+  },
+  {
+    "name": "Salto da Santa Maria",
+    "iata_code": "YAM"
+  },
+  {
+    "name": "Deer Lake",
+    "iata_code": "YDF"
+  },
+  {
+    "name": "Edmonton",
+    "iata_code": "YEG"
+  },
+  {
+    "name": "Fredericton",
+    "iata_code": "YFC"
+  },
+  {
+    "name": "Halifax",
+    "iata_code": "YHZ"
+  },
+  {
+    "name": "Forte McMurray",
+    "iata_code": "YMM"
+  },
+  {
+    "name": "Quebec",
+    "iata_code": "YQB"
+  },
+  {
+    "name": "Moncton",
+    "iata_code": "YQM"
+  },
+  {
+    "name": "Windsor",
+    "iata_code": "YQG"
+  },
+  {
+    "name": "Regina",
+    "iata_code": "YQR"
+  },
+  {
+    "name": "Thunder Bay",
+    "iata_code": "YQT"
+  },
+  {
+    "name": "Sydney",
+    "iata_code": "YQY"
+  },
+  {
+    "name": "Sudbury",
+    "iata_code": "YSB"
+  },
+  {
+    "name": "São João da Terra Nova",
+    "iata_code": "YSJ"
+  },
+  {
+    "name": "Timmins",
+    "iata_code": "YTS"
+  },
+  {
+    "name": "Winnipeg",
+    "iata_code": "YWG"
+  },
+  {
+    "name": "Luanda",
+    "iata_code": "LAD"
+  },
+  {
+    "name": "Johannesburg",
+    "iata_code": "JNB"
+  },
+  {
+    "name": "Cidade do Cabo",
+    "iata_code": "CPT"
+  },
+  {
+    "name": "Quinxassa",
+    "iata_code": "FIH"
+  },
+  {
+    "name": "Windhoek",
+    "iata_code": "WDH"
+  },
+  {
+    "name": "Maputo",
+    "iata_code": "MPM"
+  },
+  {
+    "name": "Accra",
+    "iata_code": "ACC"
+  },
+  {
+    "name": "Ponta Negra",
+    "iata_code": "PNR"
+  },
+  {
+    "name": "Porto",
+    "iata_code": "OPO"
+  },
+  {
+    "name": "Sevilha",
+    "iata_code": "SVQ"
+  },
+  {
+    "name": "Valência",
+    "iata_code": "VLC"
+  },
+  {
+    "name": "Aeroporto Cap Carlos Perez",
+    "iata_code": "VSA"
+  },
+  {
+    "name": "Armênia",
+    "iata_code": "AXM"
+  },
+  {
+    "name": "Cúcuta",
+    "iata_code": "CUC"
+  },
+  {
+    "name": "Barrancabermeja",
+    "iata_code": "EJA"
+  },
+  {
+    "name": "El Yopal",
+    "iata_code": "EYP"
+  },
+  {
+    "name": "Ibagué",
+    "iata_code": "IBE"
+  },
+  {
+    "name": "Ipiales",
+    "iata_code": "IPI"
+  },
+  {
+    "name": "Leticia",
+    "iata_code": "LET"
+  },
+  {
+    "name": "Montería",
+    "iata_code": "MTR"
+  },
+  {
+    "name": "Neiva",
+    "iata_code": "NVA"
+  },
+  {
+    "name": "Popayán",
+    "iata_code": "PPN"
+  },
+  {
+    "name": "San Juan de Pasto",
+    "iata_code": "PSO"
+  },
+  {
+    "name": "Riohacha",
+    "iata_code": "RCH"
+  },
+  {
+    "name": "Santa Marta",
+    "iata_code": "SMR"
+  },
+  {
+    "name": "Villavicencio",
+    "iata_code": "VVC"
+  },
+  {
+    "name": "Valledupar",
+    "iata_code": "VUP"
+  },
+  {
+    "name": "Tegucigalpa",
+    "iata_code": "XPL"
+  },
+  {
+    "name": "Cusco",
+    "iata_code": "CUZ"
+  },
+  {
+    "name": "Cuenca",
+    "iata_code": "CUE"
+  },
+  {
+    "name": "San Cristobal – Ilhas Galápagos",
+    "iata_code": "SCY"
+  },
+  {
+    "name": "Ontário - Califórnia",
+    "iata_code": "ONT"
+  },
+  {
+    "name": "Oakland",
+    "iata_code": "OAK"
+  },
+  {
+    "name": "Flores",
+    "iata_code": "FRS"
+  },
+  {
+    "name": "Port Elizabeth",
+    "iata_code": "PLZ"
+  },
+  {
+    "name": "Durban",
+    "iata_code": "DUR"
+  },
+  {
+    "name": "Canoas",
+    "iata_code": "QNS"
+  },
+  {
+    "name": "Cayenne - Félix Eboué",
+    "iata_code": "CAY"
+  },
+  {
+    "name": "Abidjan, Ivory Coast",
+    "iata_code": "ABJ"
+  },
+  {
+    "name": "Abuja, Nigeria",
+    "iata_code": "ABV"
+  },
+  {
+    "name": "Agadir, Morocco",
+    "iata_code": "AGA"
+  },
+  {
+    "name": "Banjul, Gambia",
+    "iata_code": "BJL"
+  },
+  {
+    "name": "Bamako, Mali",
+    "iata_code": "BKO"
+  },
+  {
+    "name": "Cairo, Egypt",
+    "iata_code": "CAI"
+  },
+  {
+    "name": "Conakry, Guinea",
+    "iata_code": "CKY"
+  },
+  {
+    "name": "Casablanca, Morocco",
+    "iata_code": "CMN"
+  },
+  {
+    "name": "Cotonou, Benin",
+    "iata_code": "COO"
+  },
+  {
+    "name": "B Diagne Int Dkr, Senegal",
+    "iata_code": "DSS"
+  },
+  {
+    "name": "Errachidla, Morocco",
+    "iata_code": "ERH"
+  },
+  {
+    "name": "Laayoune, Morocco",
+    "iata_code": "EUN"
+  },
+  {
+    "name": "Fez, Morocco",
+    "iata_code": "FEZ"
+  },
+  {
+    "name": "Freetown Lungi, Sierra Leone",
+    "iata_code": "FNA"
+  },
+  {
+    "name": "Lome, Togo",
+    "iata_code": "LFW"
+  },
+  {
+    "name": "Nador, Morocco",
+    "iata_code": "NDR"
+  },
+  {
+    "name": "Niamey, Niger",
+    "iata_code": "NIM"
+  },
+  {
+    "name": "Nouakchott, Mauritania",
+    "iata_code": "NKC"
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "iata_code": "OUA"
+  },
+  {
+    "name": "Oujda, Morocco",
+    "iata_code": "OUD"
+  },
+  {
+    "name": "Bissau, Guinea Bissau",
+    "iata_code": "OXB"
+  },
+  {
+    "name": "Ouarzazate, Morocco",
+    "iata_code": "OZZ"
+  },
+  {
+    "name": "Marrakech, Morocco",
+    "iata_code": "RAK"
+  },
+  {
+    "name": "Monrovia Roberts, Liberia",
+    "iata_code": "ROB"
+  },
+  {
+    "name": "Sal, Cape Verde",
+    "iata_code": "SID"
+  },
+  {
+    "name": "Tangier, Morocco",
+    "iata_code": "TNG"
+  },
+  {
+    "name": "Tunis, Tunisia",
+    "iata_code": "TUN"
+  },
+  {
+    "name": "Dakhla, Morocco",
+    "iata_code": "VIL"
+  },
+  {
+    "name": "Lagos, Nigeria",
+    "iata_code": "LOS"
+  },
+  {
+    "name": "Praia, Cape Verde",
+    "iata_code": "RAI"
+  },
+  {
+    "name": "Albany",
+    "iata_code": "ALB"
+  },
+  {
+    "name": "Hartford Springfield",
+    "iata_code": "BDL"
+  },
+  {
+    "name": "Birmingham Alabama",
+    "iata_code": "BHM"
+  },
+  {
+    "name": "Nashville",
+    "iata_code": "BNA"
+  },
+  {
+    "name": "Buffalo",
+    "iata_code": "BUF"
+  },
+  {
+    "name": "Baltimore",
+    "iata_code": "BWI"
+  },
+  {
+    "name": "Charleston",
+    "iata_code": "CHS"
+  },
+  {
+    "name": "Cedar Rapids",
+    "iata_code": "CID"
+  },
+  {
+    "name": "Cleveland",
+    "iata_code": "CLE"
+  },
+  {
+    "name": "Columbus",
+    "iata_code": "CMH"
+  },
+  {
+    "name": "Des Moines",
+    "iata_code": "DSM"
+  },
+  {
+    "name": "Key West",
+    "iata_code": "EYW"
+  },
+  {
+    "name": "Grand Rapids",
+    "iata_code": "GRR"
+  },
+  {
+    "name": "Greensboro",
+    "iata_code": "GSO"
+  },
+  {
+    "name": "Greenville Spartanburg",
+    "iata_code": "GSP"
+  },
+  {
+    "name": "Wichita",
+    "iata_code": "ICT"
+  },
+  {
+    "name": "Jacksonville",
+    "iata_code": "JAX"
+  },
+  {
+    "name": "Little Rock",
+    "iata_code": "LIT"
+  },
+  {
+    "name": "Kansas City Missouri",
+    "iata_code": "MCI"
+  },
+  {
+    "name": "Memphis",
+    "iata_code": "MEM"
+  },
+  {
+    "name": "Milwaukee",
+    "iata_code": "MKE"
+  },
+  {
+    "name": "Madison",
+    "iata_code": "MSN"
+  },
+  {
+    "name": "Oklahoma City",
+    "iata_code": "OKC"
+  },
+  {
+    "name": "Omaha",
+    "iata_code": "OMA"
+  },
+  {
+    "name": "Norfolk Virginia",
+    "iata_code": "ORF"
+  },
+  {
+    "name": "Pittsburgh",
+    "iata_code": "PIT"
+  },
+  {
+    "name": "Pensacola",
+    "iata_code": "PNS"
+  },
+  {
+    "name": "Richmond",
+    "iata_code": "RIC"
+  },
+  {
+    "name": "Rochester",
+    "iata_code": "ROC"
+  },
+  {
+    "name": "San Antonio",
+    "iata_code": "SAT"
+  },
+  {
+    "name": "Savannah",
+    "iata_code": "SAV"
+  },
+  {
+    "name": "Louisville",
+    "iata_code": "SDF"
+  },
+  {
+    "name": "Sacramento",
+    "iata_code": "SMF"
+  },
+  {
+    "name": "Saint Thomas",
+    "iata_code": "STT"
+  },
+  {
+    "name": "Saint Croix",
+    "iata_code": "STX"
+  },
+  {
+    "name": "Syracuse",
+    "iata_code": "SYR"
+  },
+  {
+    "name": "Tulsa",
+    "iata_code": "TUL"
+  },
+  {
+    "name": "Knoxville",
+    "iata_code": "TYS"
+  },
+  {
+    "name": "Fayetteville Northwest Arkansas",
+    "iata_code": "XNA"
+  },
+  {
+    "name": "Havana",
+    "iata_code": "HAV"
+  },
+  {
+    "name": "Tulum",
+    "iata_code": "TQO"
+  },
+  {
+    "name": "Quibdó",
+    "iata_code": "UIB"
+  },
+  {
+    "name": "Arauca",
+    "iata_code": "AUC"
+  },
+  {
+    "name": "Arica - Arica y Parinacota",
+    "iata_code": "ARI"
+  },
+  {
+    "name": "Iquique - Tarapacá",
+    "iata_code": "IQQ"
+  },
+  {
+    "name": "Antofagasta",
+    "iata_code": "ANF"
+  },
+  {
+    "name": "Calama - Antofagasta",
+    "iata_code": "CJC"
+  },
+  {
+    "name": "Copiapó - Atacama",
+    "iata_code": "CPO"
+  },
+  {
+    "name": "La Serena - Coquimbo",
+    "iata_code": "LSC"
+  },
+  {
+    "name": "Concepción - Bío Bío",
+    "iata_code": "CCP"
+  },
+  {
+    "name": "Temuco - Araucanía",
+    "iata_code": "ZCO"
+  },
+  {
+    "name": "Valdivia - Los Ríos",
+    "iata_code": "ZAL"
+  },
+  {
+    "name": "Osorno - Los Lagos",
+    "iata_code": "ZOS"
+  },
+  {
+    "name": "Puerto Montt - Los Lagos",
+    "iata_code": "PMC"
+  },
+  {
+    "name": "Castro - Dalcahue - Chiloé Island - Los Lagos",
+    "iata_code": "MHC"
+  },
+  {
+    "name": "Balmaceda - Aysén del General Carlos Ibáñez del Campo",
+    "iata_code": "BBA"
+  },
+  {
+    "name": "Punta Arenas - Magallanes y de la Antártica Chilena",
+    "iata_code": "PUQ"
+  },
+  {
+    "name": "Puerto Natales - Magallanes y de la Antártica Chilena",
+    "iata_code": "PNT"
+  },
+  {
+    "name": "Piura",
+    "iata_code": "PIU"
+  },
+  {
+    "name": "Trujillo - La Libertad",
+    "iata_code": "TRU"
+  },
+  {
+    "name": "Tumbes",
+    "iata_code": "TBP"
+  },
+  {
+    "name": "Jauja - Junín",
+    "iata_code": "JAU"
+  },
+  {
+    "name": "Ayacucho",
+    "iata_code": "AYP"
+  },
+  {
+    "name": "Juliaca - Puno",
+    "iata_code": "JUL"
+  },
+  {
+    "name": "Tarapoto - San Martín",
+    "iata_code": "TPP"
+  },
+  {
+    "name": "Iquitos - Loreto",
+    "iata_code": "IQT"
+  },
+  {
+    "name": "Pucallpa - Ucayali",
+    "iata_code": "PCL"
+  },
+  {
+    "name": "Tacna",
+    "iata_code": "TCQ"
+  },
+  {
+    "name": "Puerto Maldonado - Madre de Dios",
+    "iata_code": "PEM"
+  },
+  {
+    "name": "Pointe-a-Pitre, Guadeloupe",
+    "iata_code": "PTP"
+  },
+  {
+    "name": "Rhodes, Rhodos Island",
+    "iata_code": "RHO"
+  }
+]

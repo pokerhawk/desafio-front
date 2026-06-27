@@ -1,0 +1,42 @@
+import * as S from './style'
+import { ReactNode, ButtonHTMLAttributes, ForwardRefRenderFunction, forwardRef } from 'react';
+
+type ButtonTypes = ButtonHTMLAttributes<HTMLButtonElement>
+
+export type ButtonProps = {
+    children?: ReactNode;
+    leftIcon?: ReactNode;
+    rightIcon?: ReactNode;
+    socialButton?: boolean;
+    textButton?: boolean;
+    titleButton?: boolean;
+    commomButton?: boolean;
+    reportButton?: boolean;
+    returnButton?: boolean;
+    logoutButton?: boolean;
+    exportExcelButton?: boolean;
+} & ButtonTypes;
+
+const ButtonV2: ForwardRefRenderFunction<HTMLButtonElement, ButtonProps> = ({ children, leftIcon, rightIcon, socialButton, textButton, titleButton, reportButton, returnButton, logoutButton, commomButton, exportExcelButton, ...props
+}, ref) => {
+    return (
+        <S.Button
+            socialButton={socialButton}
+            textButton={textButton}
+            titleButton={titleButton}
+            reportButton={reportButton}
+            returnButton={returnButton}
+            logoutButton={logoutButton}
+            commomButton={commomButton}
+            exportExcelButton={exportExcelButton}
+            ref={ref}
+            {...props}
+        >
+            {leftIcon}
+            {children}
+            {rightIcon}
+        </S.Button>
+    );
+}
+
+export default forwardRef(ButtonV2);

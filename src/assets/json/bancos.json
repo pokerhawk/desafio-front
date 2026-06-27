@@ -1,0 +1,1914 @@
+[
+  {
+    "COMPE": "001",
+    "LongName": "Banco do Brasil S.A."
+  },
+  {
+    "COMPE": "003",
+    "LongName": "Banco da Amazônia S.A."
+  },
+  {
+    "COMPE": "004",
+    "LongName": "Banco do Nordeste do Brasil S.A."
+  },
+  {
+    "COMPE": "007",
+    "LongName": "BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL"
+  },
+  {
+    "COMPE": "010",
+    "LongName": "CREDICOAMO CREDITO RURAL COOPERATIVA"
+  },
+  {
+    "COMPE": "011",
+    "LongName": "UBS (BRASIL) CORRETORA DE VALORES S.A."
+  },
+  {
+    "COMPE": "012",
+    "LongName": "Banco Inbursa S.A."
+  },
+  {
+    "COMPE": "014",
+    "LongName": "STATE STREET BRASIL S.A. - BANCO COMERCIAL"
+  },
+  {
+    "COMPE": "015",
+    "LongName": "UBS BB CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "016",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RIO GRANDE DO SUL - SICOOB CREDITRAN"
+  },
+  {
+    "COMPE": "017",
+    "LongName": "BNY Mellon Banco S.A."
+  },
+  {
+    "COMPE": "018",
+    "LongName": "Banco Tricury S.A."
+  },
+  {
+    "COMPE": "021",
+    "LongName": "BANESTES S.A. Banco do Estado do Espírito Santo"
+  },
+  {
+    "COMPE": "024",
+    "LongName": "Banco Bandepe S.A."
+  },
+  {
+    "COMPE": "025",
+    "LongName": "Banco Alfa S.A."
+  },
+  {
+    "COMPE": "029",
+    "LongName": "Banco Itaú Consignado S.A."
+  },
+  {
+    "COMPE": "033",
+    "LongName": "BANCO SANTANDER (BRASIL) S.A."
+  },
+  {
+    "COMPE": "036",
+    "LongName": "Banco Bradesco BBI S.A."
+  },
+  {
+    "COMPE": "037",
+    "LongName": "Banco do Estado do Pará S.A."
+  },
+  {
+    "COMPE": "040",
+    "LongName": "Banco Cargill S.A."
+  },
+  {
+    "COMPE": "041",
+    "LongName": "Banco do Estado do Rio Grande do Sul S.A."
+  },
+  {
+    "COMPE": "047",
+    "LongName": "Banco do Estado de Sergipe S.A."
+  },
+  {
+    "COMPE": "060",
+    "LongName": "Confidence Corretora de Câmbio S.A."
+  },
+  {
+    "COMPE": "062",
+    "LongName": "Hipercard Banco Múltiplo S.A."
+  },
+  {
+    "COMPE": "063",
+    "LongName": "Banco Bradescard S.A."
+  },
+  {
+    "COMPE": "064",
+    "LongName": "Goldman Sachs do Brasil Banco Múltiplo S.A."
+  },
+  {
+    "COMPE": "065",
+    "LongName": "Banco AndBank (Brasil) S.A."
+  },
+  {
+    "COMPE": "066",
+    "LongName": "BANCO MORGAN STANLEY S.A."
+  },
+  {
+    "COMPE": "069",
+    "LongName": "Banco Crefisa S.A."
+  },
+  {
+    "COMPE": "070",
+    "LongName": "BRB - Banco de Brasília S.A."
+  },
+  {
+    "COMPE": "074",
+    "LongName": "Banco J. Safra S.A."
+  },
+  {
+    "COMPE": "075",
+    "LongName": "BANCO ABN AMRO CLEARING S.A."
+  },
+  {
+    "COMPE": "076",
+    "LongName": "Banco KDB do Brasil S.A."
+  },
+  {
+    "COMPE": "077",
+    "LongName": "Banco Inter S.A."
+  },
+  {
+    "COMPE": "078",
+    "LongName": "Haitong Banco de Investimento do Brasil S.A."
+  },
+  {
+    "COMPE": "079",
+    "LongName": "PICPAY BANK - BANCO MÚLTIPLO S.A"
+  },
+  {
+    "COMPE": "080",
+    "LongName": "BT CORRETORA DE CÂMBIO LTDA."
+  },
+  {
+    "COMPE": "081",
+    "LongName": "BancoSeguro S.A."
+  },
+  {
+    "COMPE": "082",
+    "LongName": "BANCO TOPÁZIO S.A."
+  },
+  {
+    "COMPE": "083",
+    "LongName": "Banco da China Brasil S.A."
+  },
+  {
+    "COMPE": "084",
+    "LongName": "SISPRIME DO BRASIL - COOPERATIVA DE CRÉDITO"
+  },
+  {
+    "COMPE": "085",
+    "LongName": "Cooperativa Central de Crédito - Ailos"
+  },
+  {
+    "COMPE": "088",
+    "LongName": "BANCO RANDON S.A."
+  },
+  {
+    "COMPE": "089",
+    "LongName": "CREDISAN COOPERATIVA DE CRÉDITO"
+  },
+  {
+    "COMPE": "091",
+    "LongName": "CENTRAL DE COOPERATIVAS DE ECONOMIA E CRÉDITO MÚTUO DO ESTADO DO RIO GRANDE DO S"
+  },
+  {
+    "COMPE": "092",
+    "LongName": "BRK S.A. Crédito, Financiamento e Investimento"
+  },
+  {
+    "COMPE": "093",
+    "LongName": "PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA."
+  },
+  {
+    "COMPE": "094",
+    "LongName": "Banco Finaxis S.A."
+  },
+  {
+    "COMPE": "095",
+    "LongName": "BANCO TRAVELEX S.A."
+  },
+  {
+    "COMPE": "096",
+    "LongName": "Banco B3 S.A."
+  },
+  {
+    "COMPE": "097",
+    "LongName": "Credisis - Central de Cooperativas de Crédito Ltda."
+  },
+  {
+    "COMPE": "098",
+    "LongName": "Credialiança Cooperativa de Crédito Rural"
+  },
+  {
+    "COMPE": "099",
+    "LongName": "UNIPRIME CENTRAL NACIONAL - CENTRAL NACIONAL DE COOPERATIVA DE CREDITO"
+  },
+  {
+    "COMPE": "100",
+    "LongName": "Planner Corretora de Valores S.A."
+  },
+  {
+    "COMPE": "101",
+    "LongName": "RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "102",
+    "LongName": "XP INVESTIMENTOS CORRETORA DE CÂMBIO,TÍTULOS E VALORES MOBILIÁRIOS S/A"
+  },
+  {
+    "COMPE": "104",
+    "LongName": "Caixa Econômica Federal"
+  },
+  {
+    "COMPE": "105",
+    "LongName": "Lecca Crédito, Financiamento e Investimento S/A"
+  },
+  {
+    "COMPE": "107",
+    "LongName": "Banco Bocom BBM S.A."
+  },
+  {
+    "COMPE": "108",
+    "LongName": "PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "111",
+    "LongName": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A."
+  },
+  {
+    "COMPE": "113",
+    "LongName": "NEON CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "114",
+    "LongName": "Central Cooperativa de Crédito no Estado do Espírito Santo - CECOOP"
+  },
+  {
+    "COMPE": "117",
+    "LongName": "ADVANCED CORRETORA DE CÂMBIO LTDA"
+  },
+  {
+    "COMPE": "119",
+    "LongName": "Banco Western Union do Brasil S.A."
+  },
+  {
+    "COMPE": "120",
+    "LongName": "BANCO RODOBENS S.A."
+  },
+  {
+    "COMPE": "121",
+    "LongName": "Banco Agibank S.A."
+  },
+  {
+    "COMPE": "122",
+    "LongName": "Banco Bradesco BERJ S.A."
+  },
+  {
+    "COMPE": "124",
+    "LongName": "Banco Woori Bank do Brasil S.A."
+  },
+  {
+    "COMPE": "125",
+    "LongName": "BANCO GENIAL S.A."
+  },
+  {
+    "COMPE": "126",
+    "LongName": "BR Partners Banco de Investimento S.A."
+  },
+  {
+    "COMPE": "127",
+    "LongName": "Codepe Corretora de Valores e Câmbio S.A."
+  },
+  {
+    "COMPE": "128",
+    "LongName": "BRAZA BANK S.A. BANCO DE CÂMBIO"
+  },
+  {
+    "COMPE": "129",
+    "LongName": "UBS BB BANCO DE INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "130",
+    "LongName": "CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "131",
+    "LongName": "TULLETT PREBON BRASIL CORRETORA DE VALORES E CÂMBIO LTDA"
+  },
+  {
+    "COMPE": "132",
+    "LongName": "ICBC do Brasil Banco Múltiplo S.A."
+  },
+  {
+    "COMPE": "133",
+    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E SOLIDÁRIA - CRESOL CONFEDERAÇÃO"
+  },
+  {
+    "COMPE": "134",
+    "LongName": "BGC LIQUIDEZ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "136",
+    "LongName": "COOPERATIVA CENTRAL DE CRÉDITO UNICRED DO BRASIL - UNICRED DO BRASIL"
+  },
+  {
+    "COMPE": "138",
+    "LongName": "Get Money Corretora de Câmbio S.A."
+  },
+  {
+    "COMPE": "139",
+    "LongName": "Intesa Sanpaolo Brasil S.A. - Banco Múltiplo"
+  },
+  {
+    "COMPE": "140",
+    "LongName": "NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS"
+  },
+  {
+    "COMPE": "141",
+    "LongName": "BANCO MASTER DE INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "142",
+    "LongName": "Broker Brasil Corretora de Câmbio Ltda."
+  },
+  {
+    "COMPE": "143",
+    "LongName": "INTEX BANK BANCO DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "144",
+    "LongName": "EBURY BANCO DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "145",
+    "LongName": "LEVYCAM - CORRETORA DE CAMBIO E VALORES LTDA."
+  },
+  {
+    "COMPE": "146",
+    "LongName": "GUITTA CORRETORA DE CAMBIO LTDA."
+  },
+  {
+    "COMPE": "149",
+    "LongName": "Facta Financeira S.A. - Crédito Financiamento e Investimento"
+  },
+  {
+    "COMPE": "157",
+    "LongName": "ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda."
+  },
+  {
+    "COMPE": "159",
+    "LongName": "Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor"
+  },
+  {
+    "COMPE": "163",
+    "LongName": "Commerzbank Brasil S.A. - Banco Múltiplo"
+  },
+  {
+    "COMPE": "173",
+    "LongName": "BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A."
+  },
+  {
+    "COMPE": "174",
+    "LongName": "PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "177",
+    "LongName": "SAFRA ASSET CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "180",
+    "LongName": "CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "183",
+    "LongName": "SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE"
+  },
+  {
+    "COMPE": "184",
+    "LongName": "Banco Itaú BBA S.A."
+  },
+  {
+    "COMPE": "188",
+    "LongName": "ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES"
+  },
+  {
+    "COMPE": "189",
+    "LongName": "HS FINANCEIRA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS"
+  },
+  {
+    "COMPE": "190",
+    "LongName": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAIS DO RIO GRANDE DO SUL"
+  },
+  {
+    "COMPE": "191",
+    "LongName": "Nova Futura Corretora de Títulos e Valores Mobiliários Ltda."
+  },
+  {
+    "COMPE": "194",
+    "LongName": "UNIDA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "195",
+    "LongName": "VALOR S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "196",
+    "LongName": "FAIR CORRETORA DE CAMBIO S.A."
+  },
+  {
+    "COMPE": "197",
+    "LongName": "STONE INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "208",
+    "LongName": "Banco BTG Pactual S.A."
+  },
+  {
+    "COMPE": "212",
+    "LongName": "Banco Original S.A."
+  },
+  {
+    "COMPE": "213",
+    "LongName": "Banco Arbi S.A."
+  },
+  {
+    "COMPE": "217",
+    "LongName": "Banco John Deere S.A."
+  },
+  {
+    "COMPE": "218",
+    "LongName": "Banco BS2 S.A."
+  },
+  {
+    "COMPE": "222",
+    "LongName": "BANCO CRÉDIT AGRICOLE BRASIL S.A."
+  },
+  {
+    "COMPE": "224",
+    "LongName": "Banco Fibra S.A."
+  },
+  {
+    "COMPE": "233",
+    "LongName": "BANCO BMG SOLUÇÕES FINANCEIRAS S.A."
+  },
+  {
+    "COMPE": "237",
+    "LongName": "Banco Bradesco S.A."
+  },
+  {
+    "COMPE": "241",
+    "LongName": "BANCO CLASSICO S.A."
+  },
+  {
+    "COMPE": "243",
+    "LongName": "BANCO MASTER S/A"
+  },
+  {
+    "COMPE": "246",
+    "LongName": "Banco ABC Brasil S.A."
+  },
+  {
+    "COMPE": "249",
+    "LongName": "Banco Investcred Unibanco S.A."
+  },
+  {
+    "COMPE": "250",
+    "LongName": "BANCO BMG CONSIGNADO S.A."
+  },
+  {
+    "COMPE": "253",
+    "LongName": "Bexs Corretora de Câmbio S/A"
+  },
+  {
+    "COMPE": "254",
+    "LongName": "PARANÁ BANCO S.A."
+  },
+  {
+    "COMPE": "259",
+    "LongName": "MONEYCORP BANCO DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "260",
+    "LongName": "NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO"
+  },
+  {
+    "COMPE": "265",
+    "LongName": "Banco Fator S.A."
+  },
+  {
+    "COMPE": "266",
+    "LongName": "BANCO CEDULA S.A."
+  },
+  {
+    "COMPE": "268",
+    "LongName": "BARI COMPANHIA HIPOTECÁRIA"
+  },
+  {
+    "COMPE": "269",
+    "LongName": "BANCO HSBC S.A."
+  },
+  {
+    "COMPE": "270",
+    "LongName": "SAGITUR CORRETORA DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "271",
+    "LongName": "BPY CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "272",
+    "LongName": "AGK CORRETORA DE CAMBIO S.A."
+  },
+  {
+    "COMPE": "273",
+    "LongName": "COOPERATIVA DE CREDITO SULCREDI AMPLEA"
+  },
+  {
+    "COMPE": "274",
+    "LongName": "BMP SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LTDA."
+  },
+  {
+    "COMPE": "276",
+    "LongName": "BANCO SENFF S.A."
+  },
+  {
+    "COMPE": "278",
+    "LongName": "Genial Investimentos Corretora de Valores Mobiliários S.A."
+  },
+  {
+    "COMPE": "279",
+    "LongName": "PRIMACREDI CREDISIS - COOPERATIVA DE CRÉDITO DE PRIMAVERA DO LESTE"
+  },
+  {
+    "COMPE": "280",
+    "LongName": "WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "281",
+    "LongName": "Cooperativa de Crédito Rural Coopavel"
+  },
+  {
+    "COMPE": "283",
+    "LongName": "RB INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LIMITADA"
+  },
+  {
+    "COMPE": "285",
+    "LongName": "FRENTE CORRETORA DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "286",
+    "LongName": "UNIPRIME OURO - COOPERATIVA DE CRÉDITO DE OURO"
+  },
+  {
+    "COMPE": "288",
+    "LongName": "CAROL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA."
+  },
+  {
+    "COMPE": "289",
+    "LongName": "EFX CORRETORA DE CÂMBIO LTDA."
+  },
+  {
+    "COMPE": "290",
+    "LongName": "PAGSEGURO INTERNET INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "292",
+    "LongName": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "293",
+    "LongName": "Lastro RDV Distribuidora de Títulos e Valores Mobiliários Ltda."
+  },
+  {
+    "COMPE": "296",
+    "LongName": "OZ CORRETORA DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "298",
+    "LongName": "VIPS CORRETORA DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "299",
+    "LongName": "BANCO AFINZ S.A. - BANCO MÚLTIPLO"
+  },
+  {
+    "COMPE": "300",
+    "LongName": "Banco de la Nacion Argentina"
+  },
+  {
+    "COMPE": "301",
+    "LongName": "DOCK INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "305",
+    "LongName": "FOURTRADE CORRETORA DE CÂMBIO LTDA."
+  },
+  {
+    "COMPE": "306",
+    "LongName": "PORTOPAR DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA."
+  },
+  {
+    "COMPE": "307",
+    "LongName": "Terra Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda."
+  },
+  {
+    "COMPE": "309",
+    "LongName": "CAMBIONET CORRETORA DE CÂMBIO LTDA."
+  },
+  {
+    "COMPE": "310",
+    "LongName": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA."
+  },
+  {
+    "COMPE": "311",
+    "LongName": "DOURADA CORRETORA DE CÂMBIO LTDA."
+  },
+  {
+    "COMPE": "312",
+    "LongName": "HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA."
+  },
+  {
+    "COMPE": "313",
+    "LongName": "AMAZÔNIA CORRETORA DE CÂMBIO LTDA."
+  },
+  {
+    "COMPE": "315",
+    "LongName": "PI Distribuidora de Títulos e Valores Mobiliários S.A."
+  },
+  {
+    "COMPE": "318",
+    "LongName": "Banco BMG S.A."
+  },
+  {
+    "COMPE": "319",
+    "LongName": "OM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "320",
+    "LongName": "BANK OF CHINA (BRASIL) BANCO MÚLTIPLO S/A"
+  },
+  {
+    "COMPE": "321",
+    "LongName": "CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE S.A."
+  },
+  {
+    "COMPE": "322",
+    "LongName": "Cooperativa de Crédito Rural de Abelardo Luz - Sulcredi/Crediluz"
+  },
+  {
+    "COMPE": "323",
+    "LongName": "MERCADO PAGO INSTITUIÇÃO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "324",
+    "LongName": "CARTOS SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "325",
+    "LongName": "Órama Distribuidora de Títulos e Valores Mobiliários S.A."
+  },
+  {
+    "COMPE": "326",
+    "LongName": "PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "328",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA LTDA."
+  },
+  {
+    "COMPE": "329",
+    "LongName": "QI Sociedade de Crédito Direto S.A."
+  },
+  {
+    "COMPE": "330",
+    "LongName": "BANCO BARI DE INVESTIMENTOS E FINANCIAMENTOS S.A."
+  },
+  {
+    "COMPE": "331",
+    "LongName": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A"
+  },
+  {
+    "COMPE": "332",
+    "LongName": "ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO"
+  },
+  {
+    "COMPE": "334",
+    "LongName": "BANCO BESA S.A."
+  },
+  {
+    "COMPE": "335",
+    "LongName": "Banco Digio S.A."
+  },
+  {
+    "COMPE": "336",
+    "LongName": "Banco C6 S.A."
+  },
+  {
+    "COMPE": "340",
+    "LongName": "SUPERDIGITAL INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "341",
+    "LongName": "ITAÚ UNIBANCO S.A."
+  },
+  {
+    "COMPE": "342",
+    "LongName": "Creditas Sociedade de Crédito Direto S.A."
+  },
+  {
+    "COMPE": "343",
+    "LongName": "FFA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA."
+  },
+  {
+    "COMPE": "348",
+    "LongName": "Banco XP S.A."
+  },
+  {
+    "COMPE": "349",
+    "LongName": "AL5 S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "350",
+    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL - CREHNOR"
+  },
+  {
+    "COMPE": "352",
+    "LongName": "TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "354",
+    "LongName": "NECTON INVESTIMENTOS  S.A. CORRETORA DE VALORES MOBILIÁRIOS E COMMODITIES"
+  },
+  {
+    "COMPE": "355",
+    "LongName": "ÓTIMO SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "358",
+    "LongName": "MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "359",
+    "LongName": "ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A"
+  },
+  {
+    "COMPE": "360",
+    "LongName": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "362",
+    "LongName": "CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO"
+  },
+  {
+    "COMPE": "363",
+    "LongName": "SINGULARE CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "364",
+    "LongName": "EFÍ S.A. - INSTITUIÇÃO DE PAGAMENTO"
+  },
+  {
+    "COMPE": "365",
+    "LongName": "SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS  S.A."
+  },
+  {
+    "COMPE": "366",
+    "LongName": "BANCO SOCIETE GENERALE BRASIL S.A."
+  },
+  {
+    "COMPE": "367",
+    "LongName": "VITREO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "368",
+    "LongName": "Banco CSF S.A."
+  },
+  {
+    "COMPE": "370",
+    "LongName": "Banco Mizuho do Brasil S.A."
+  },
+  {
+    "COMPE": "371",
+    "LongName": "WARREN CORRETORA DE VALORES MOBILIÁRIOS E CÂMBIO LTDA."
+  },
+  {
+    "COMPE": "373",
+    "LongName": "UP.P SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A."
+  },
+  {
+    "COMPE": "374",
+    "LongName": "REALIZE SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "376",
+    "LongName": "BANCO J.P. MORGAN S.A."
+  },
+  {
+    "COMPE": "377",
+    "LongName": "BMS SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "378",
+    "LongName": "BANCO BRASILEIRO DE CRÉDITO SOCIEDADE ANÔNIMA"
+  },
+  {
+    "COMPE": "379",
+    "LongName": "COOPERFORTE COOPERATIVA DE CRÉDITO E INVESTIMENTOS LTDA"
+  },
+  {
+    "COMPE": "380",
+    "LongName": "PICPAY INSTITUIçãO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "381",
+    "LongName": "BANCO MERCEDES-BENZ DO BRASIL S.A."
+  },
+  {
+    "COMPE": "382",
+    "LongName": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LIMITADA."
+  },
+  {
+    "COMPE": "383",
+    "LongName": "EBANX INSTITUICAO DE PAGAMENTOS LTDA."
+  },
+  {
+    "COMPE": "384",
+    "LongName": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA."
+  },
+  {
+    "COMPE": "385",
+    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE VITORIA - CREDESTIVA."
+  },
+  {
+    "COMPE": "386",
+    "LongName": "NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento"
+  },
+  {
+    "COMPE": "387",
+    "LongName": "Banco Toyota do Brasil S.A."
+  },
+  {
+    "COMPE": "389",
+    "LongName": "Banco Mercantil do Brasil S.A."
+  },
+  {
+    "COMPE": "390",
+    "LongName": "BANCO GM S.A."
+  },
+  {
+    "COMPE": "391",
+    "LongName": "COOPERATIVA DE CREDITO RURAL DE IBIAM - SULCREDI/IBIAM"
+  },
+  {
+    "COMPE": "393",
+    "LongName": "Banco Volkswagen S.A."
+  },
+  {
+    "COMPE": "394",
+    "LongName": "Banco Bradesco Financiamentos S.A."
+  },
+  {
+    "COMPE": "395",
+    "LongName": "F.D'GOLD - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "396",
+    "LongName": "MAGALUPAY INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "397",
+    "LongName": "LISTO SOCIEDADE DE CREDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "398",
+    "LongName": "IDEAL CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "399",
+    "LongName": "Kirton Bank S.A. - Banco Múltiplo"
+  },
+  {
+    "COMPE": "400",
+    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS"
+  },
+  {
+    "COMPE": "401",
+    "LongName": "IUGU INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "402",
+    "LongName": "COBUCCIO S/A - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS"
+  },
+  {
+    "COMPE": "403",
+    "LongName": "CORA SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "404",
+    "LongName": "SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "406",
+    "LongName": "ACCREDITO - SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "407",
+    "LongName": "SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "408",
+    "LongName": "BONUSPAGO SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "410",
+    "LongName": "PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "411",
+    "LongName": "Via Certa Financiadora S.A. - Crédito, Financiamento e Investimentos"
+  },
+  {
+    "COMPE": "412",
+    "LongName": "SOCIAL BANK BANCO MÚLTIPLO S/A"
+  },
+  {
+    "COMPE": "413",
+    "LongName": "BANCO BV S.A."
+  },
+  {
+    "COMPE": "414",
+    "LongName": "LEND SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "415",
+    "LongName": "BANCO NACIONAL S.A."
+  },
+  {
+    "COMPE": "416",
+    "LongName": "LAMARA SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "418",
+    "LongName": "ZIPDIN SOLUÇÕES DIGITAIS SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "419",
+    "LongName": "NUMBRS SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "421",
+    "LongName": "LAR COOPERATIVA DE CRÉDITO - LAR CREDI"
+  },
+  {
+    "COMPE": "422",
+    "LongName": "Banco Safra S.A."
+  },
+  {
+    "COMPE": "423",
+    "LongName": "COLUNA S/A DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS"
+  },
+  {
+    "COMPE": "425",
+    "LongName": "SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "426",
+    "LongName": "NEON FINANCEIRA - CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "427",
+    "LongName": "COOPERATIVA DE CRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO"
+  },
+  {
+    "COMPE": "428",
+    "LongName": "CREDSYSTEM SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "429",
+    "LongName": "Crediare S.A. - Crédito, financiamento e investimento"
+  },
+  {
+    "COMPE": "430",
+    "LongName": "COOPERATIVA DE CREDITO RURAL SEARA - CREDISEARA"
+  },
+  {
+    "COMPE": "433",
+    "LongName": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "435",
+    "LongName": "DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "438",
+    "LongName": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "439",
+    "LongName": "ID CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "440",
+    "LongName": "CREDI&GENTE - COOPERATIVA DE CRÉDITO E INVESTIMENTOS"
+  },
+  {
+    "COMPE": "442",
+    "LongName": "MAGNETIS - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "443",
+    "LongName": "OCTA SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "444",
+    "LongName": "TRINUS SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "445",
+    "LongName": "PLANTAE S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "447",
+    "LongName": "MIRAE ASSET (BRASIL) CORRETORA DE CÂMBIO, TÍTULOS  E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "448",
+    "LongName": "HEMERA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "449",
+    "LongName": "DM SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "450",
+    "LongName": "FITBANK INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "451",
+    "LongName": "J17 - SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "452",
+    "LongName": "CREDIFIT SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "454",
+    "LongName": "MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "455",
+    "LongName": "FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "456",
+    "LongName": "Banco MUFG Brasil S.A."
+  },
+  {
+    "COMPE": "457",
+    "LongName": "UY3 SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "458",
+    "LongName": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "459",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CREDIFISCO"
+  },
+  {
+    "COMPE": "460",
+    "LongName": "UNAVANTI SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "461",
+    "LongName": "ASAAS GESTÃO FINANCEIRA INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "462",
+    "LongName": "STARK SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "463",
+    "LongName": "AZUMI DISTRIBUIDORA DE TíTULOS E VALORES MOBILIáRIOS LTDA."
+  },
+  {
+    "COMPE": "464",
+    "LongName": "Banco Sumitomo Mitsui Brasileiro S.A."
+  },
+  {
+    "COMPE": "465",
+    "LongName": "CAPITAL CONSIG SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "467",
+    "LongName": "MASTER S/A CORRETORA DE CâMBIO, TíTULOS E VALORES MOBILIáRIOS"
+  },
+  {
+    "COMPE": "468",
+    "LongName": "PORTOSEG S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "469",
+    "LongName": "PICPAY INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "470",
+    "LongName": "CDC SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "471",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES PÚBLICOS DE PINHÃO - CRESERV CREDISIS"
+  },
+  {
+    "COMPE": "473",
+    "LongName": "Banco Caixa Geral - Brasil S.A."
+  },
+  {
+    "COMPE": "475",
+    "LongName": "Banco Yamaha Motor do Brasil S.A."
+  },
+  {
+    "COMPE": "477",
+    "LongName": "Citibank N.A."
+  },
+  {
+    "COMPE": "478",
+    "LongName": "GAZINCRED S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "479",
+    "LongName": "Banco ItauBank S.A."
+  },
+  {
+    "COMPE": "481",
+    "LongName": "SUPERLÓGICA SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "482",
+    "LongName": "ARTTA SOCIEDADE DE CRÉDITO DIRETO S.A"
+  },
+  {
+    "COMPE": "484",
+    "LongName": "MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "487",
+    "LongName": "DEUTSCHE BANK S.A. - BANCO ALEMAO"
+  },
+  {
+    "COMPE": "488",
+    "LongName": "JPMorgan Chase Bank, National Association"
+  },
+  {
+    "COMPE": "492",
+    "LongName": "ING Bank N.V."
+  },
+  {
+    "COMPE": "495",
+    "LongName": "Banco de La Provincia de Buenos Aires"
+  },
+  {
+    "COMPE": "496",
+    "LongName": "BBVA BRASIL BANCO DE INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "505",
+    "LongName": "BANCO UBS (BRASIL) S.A."
+  },
+  {
+    "COMPE": "506",
+    "LongName": "RJI CORRETORA DE TITULOS E VALORES MOBILIARIOS LTDA"
+  },
+  {
+    "COMPE": "507",
+    "LongName": "SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO EFÍ S.A."
+  },
+  {
+    "COMPE": "508",
+    "LongName": "AVENUE SECURITIES DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "509",
+    "LongName": "CELCOIN INSTITUICAO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "510",
+    "LongName": "FFCRED SOCIEDADE DE CRÉDITO DIRETO S.A.."
+  },
+  {
+    "COMPE": "511",
+    "LongName": "MAGNUM SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "512",
+    "LongName": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "513",
+    "LongName": "ATF SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "514",
+    "LongName": "EXIM CORRETORA DE CAMBIO LTDA"
+  },
+  {
+    "COMPE": "516",
+    "LongName": "QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "518",
+    "LongName": "MERCADO CRÉDITO SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "519",
+    "LongName": "LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "520",
+    "LongName": "SOMAPAY SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "521",
+    "LongName": "PEAK SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A."
+  },
+  {
+    "COMPE": "522",
+    "LongName": "RED SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "523",
+    "LongName": "HR DIGITAL - SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "524",
+    "LongName": "WNT CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "525",
+    "LongName": "INTERCAM CORRETORA DE CÂMBIO LTDA."
+  },
+  {
+    "COMPE": "526",
+    "LongName": "MONETARIE SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "527",
+    "LongName": "ATICCA - SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "528",
+    "LongName": "REAG TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "529",
+    "LongName": "PINBANK BRASIL INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "530",
+    "LongName": "SER FINANCE SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "531",
+    "LongName": "BMP SOCIEDADE DE CRÉDITO DIRETO S.A"
+  },
+  {
+    "COMPE": "532",
+    "LongName": "EAGLE SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "533",
+    "LongName": "SRM BANK INSTITUIÇÃO DE PAGAMENTO S/A"
+  },
+  {
+    "COMPE": "534",
+    "LongName": "EWALLY INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "535",
+    "LongName": "OPEA SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "536",
+    "LongName": "NEON PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO"
+  },
+  {
+    "COMPE": "537",
+    "LongName": "MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA."
+  },
+  {
+    "COMPE": "538",
+    "LongName": "SUDACRED SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "539",
+    "LongName": "SANTINVEST S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS"
+  },
+  {
+    "COMPE": "540",
+    "LongName": "HBI SOCIEDADE DE CRÉDITO DIRETO S/A."
+  },
+  {
+    "COMPE": "541",
+    "LongName": "FUNDO GARANTIDOR DE CREDITOS - FGC"
+  },
+  {
+    "COMPE": "542",
+    "LongName": "CLOUDWALK INSTITUIÇÃO DE PAGAMENTO E SERVICOS LTDA"
+  },
+  {
+    "COMPE": "543",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS ELETRICITÁRIOS E DOS TRABALHADORES DAS EMPRESAS DO SETOR DE ENERGIA - COOPCRECE"
+  },
+  {
+    "COMPE": "544",
+    "LongName": "MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "545",
+    "LongName": "SENSO CORRETORA DE CAMBIO E VALORES MOBILIARIOS S.A"
+  },
+  {
+    "COMPE": "546",
+    "LongName": "OKTO INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "547",
+    "LongName": "BNK DIGITAL SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "548",
+    "LongName": "RPW S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "549",
+    "LongName": "INTRA INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "550",
+    "LongName": "BEETELLER INSTITUIÇÃO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "551",
+    "LongName": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "552",
+    "LongName": "UZZIPAY INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "553",
+    "LongName": "PERCAPITAL SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "554",
+    "LongName": "STONEX BANCO DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "555",
+    "LongName": "PAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS"
+  },
+  {
+    "COMPE": "556",
+    "LongName": "SAYGO CORRETORA DE CÂMBIO S.A."
+  },
+  {
+    "COMPE": "557",
+    "LongName": "PAGPRIME INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "558",
+    "LongName": "QI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "559",
+    "LongName": "KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "560",
+    "LongName": "MAG INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "561",
+    "LongName": "PAY4FUN INSTITUICAO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "562",
+    "LongName": "AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "563",
+    "LongName": "PROTEGE CASH INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "565",
+    "LongName": "ÁGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A."
+  },
+  {
+    "COMPE": "566",
+    "LongName": "FLAGSHIP INSTITUICAO DE PAGAMENTOS LTDA"
+  },
+  {
+    "COMPE": "567",
+    "LongName": "MERCANTIL FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "568",
+    "LongName": "BRCONDOS SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "569",
+    "LongName": "CONTA PRONTA INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "572",
+    "LongName": "ALL IN CRED SOCIEDADE DE CREDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "574",
+    "LongName": "A55 SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "575",
+    "LongName": "DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO."
+  },
+  {
+    "COMPE": "576",
+    "LongName": "MERCADO BITCOIN INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "577",
+    "LongName": "DESENVOLVE SP - AGÊNCIA DE FOMENTO DO ESTADO DE SÃO PAULO S.A."
+  },
+  {
+    "COMPE": "578",
+    "LongName": "COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS MUNICIPAIS DA GRANDE VITÓRIA/ES"
+  },
+  {
+    "COMPE": "579",
+    "LongName": "QUADRA SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "580",
+    "LongName": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE"
+  },
+  {
+    "COMPE": "581",
+    "LongName": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO NORDESTE - CENTRAL SICREDI NORDESTE"
+  },
+  {
+    "COMPE": "582",
+    "LongName": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DE MATO GROSSO DO SUL, GOIÁS, DISTRITO FEDERAL E TOCANTINS - CENTRAL SICREDI BRASIL CENTRAL"
+  },
+  {
+    "COMPE": "583",
+    "LongName": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO CENTRO NORTE DO BRASIL - CENTRAL SICREDI CENTRO NORTE"
+  },
+  {
+    "COMPE": "584",
+    "LongName": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DOS ESTADOS DO PARANÁ, SÃO PAULO E RIO DE JANEIRO - CENTRAL SICREDI PR/SP/RJ"
+  },
+  {
+    "COMPE": "585",
+    "LongName": "SETHI SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "586",
+    "LongName": "Z1 INSTITUIÇÃO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "587",
+    "LongName": "FIDD DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA."
+  },
+  {
+    "COMPE": "588",
+    "LongName": "PROVER PROMOCAO DE VENDAS INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "589",
+    "LongName": "G5 SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "590",
+    "LongName": "REPASSES FINANCEIROS E SOLUCOES TECNOLOGICAS INSTITUICAO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "591",
+    "LongName": "BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA"
+  },
+  {
+    "COMPE": "592",
+    "LongName": "INSTITUIÇÃO DE PAGAMENTOS MAPS LTDA."
+  },
+  {
+    "COMPE": "593",
+    "LongName": "TRANSFEERA INSTITUIÇÃO DE PAGAMENTO S.A"
+  },
+  {
+    "COMPE": "594",
+    "LongName": "ASA SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "595",
+    "LongName": "ZOOP TECNOLOGIA & INSTITUICAO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "597",
+    "LongName": "ISSUER INSTITUICAO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "598",
+    "LongName": "KONECT SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "599",
+    "LongName": "AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "600",
+    "LongName": "Banco Luso Brasileiro S.A."
+  },
+  {
+    "COMPE": "604",
+    "LongName": "Banco Industrial do Brasil S.A."
+  },
+  {
+    "COMPE": "610",
+    "LongName": "Banco VR S.A."
+  },
+  {
+    "COMPE": "611",
+    "LongName": "Banco Paulista S.A."
+  },
+  {
+    "COMPE": "612",
+    "LongName": "Banco Guanabara S.A."
+  },
+  {
+    "COMPE": "613",
+    "LongName": "Omni Banco S.A."
+  },
+  {
+    "COMPE": "614",
+    "LongName": "SANTS SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "615",
+    "LongName": "SMART SOLUTIONS GROUP INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "619",
+    "LongName": "TRIO INSTITUICAO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "620",
+    "LongName": "REVOLUT SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "623",
+    "LongName": "Banco Pan S.A."
+  },
+  {
+    "COMPE": "626",
+    "LongName": "BANCO C6 CONSIGNADO S.A."
+  },
+  {
+    "COMPE": "630",
+    "LongName": "BANCO BLUEBANK S.A."
+  },
+  {
+    "COMPE": "632",
+    "LongName": "Z-ON SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "633",
+    "LongName": "Banco Rendimento S.A."
+  },
+  {
+    "COMPE": "634",
+    "LongName": "BANCO TRIANGULO S.A."
+  },
+  {
+    "COMPE": "636",
+    "LongName": "GIRO - SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "637",
+    "LongName": "BANCO SOFISA S.A."
+  },
+  {
+    "COMPE": "643",
+    "LongName": "Banco Pine S.A."
+  },
+  {
+    "COMPE": "644",
+    "LongName": "321 SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "646",
+    "LongName": "DM FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "651",
+    "LongName": "PAGARE INSTITUICAO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "652",
+    "LongName": "Itaú Unibanco Holding S.A."
+  },
+  {
+    "COMPE": "653",
+    "LongName": "BANCO PLENO S.A."
+  },
+  {
+    "COMPE": "654",
+    "LongName": "BANCO DIGIMAIS S.A."
+  },
+  {
+    "COMPE": "655",
+    "LongName": "Banco Votorantim S.A."
+  },
+  {
+    "COMPE": "659",
+    "LongName": "ONEKEY PAYMENTS INSTITUICAO DE PAGAMENTO SA"
+  },
+  {
+    "COMPE": "660",
+    "LongName": "PAGME INSTITUIÇÃO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "661",
+    "LongName": "FREEX CORRETORA DE CAMBIO S.A."
+  },
+  {
+    "COMPE": "662",
+    "LongName": "WE PAY OUT INSTITUICAO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "663",
+    "LongName": "ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+  },
+  {
+    "COMPE": "664",
+    "LongName": "EAGLE INSTITUICAO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "665",
+    "LongName": "STARK BANK S.A. - INSTITUICAO DE PAGAMENTO"
+  },
+  {
+    "COMPE": "666",
+    "LongName": "URBANO S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "667",
+    "LongName": "LIQUIDO INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "668",
+    "LongName": "VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "670",
+    "LongName": "IP4Y INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "671",
+    "LongName": "ZERO INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "672",
+    "LongName": "STONE SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "673",
+    "LongName": "COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE"
+  },
+  {
+    "COMPE": "674",
+    "LongName": "HINOVA PAY INSTITUICAO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "675",
+    "LongName": "BANQI INSTITUICAO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "676",
+    "LongName": "DUFRIO FINANCEIRA, CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S.A."
+  },
+  {
+    "COMPE": "678",
+    "LongName": "FIDEM SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "679",
+    "LongName": "PAY INSTITUICAO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "680",
+    "LongName": "DELTA GLOBAL SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "681",
+    "LongName": "MT INSTITUICAO DE PAGAMENTO SA"
+  },
+  {
+    "COMPE": "682",
+    "LongName": "MONERY INSTITUICAO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "684",
+    "LongName": "HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "685",
+    "LongName": "TYCOON TECHNOLOGY INSTITUICAO DE PAGAMENTO S.A"
+  },
+  {
+    "COMPE": "686",
+    "LongName": "BIZ INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "687",
+    "LongName": "INCO SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A."
+  },
+  {
+    "COMPE": "688",
+    "LongName": "KIKAI SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "689",
+    "LongName": "NVIO BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "690",
+    "LongName": "BK INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "692",
+    "LongName": "SQUID SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "693",
+    "LongName": "EFEX INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "694",
+    "LongName": "WOOVI INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "695",
+    "LongName": "BEES INSTITUICAO DE PAGAMENTO LTDA."
+  },
+  {
+    "COMPE": "697",
+    "LongName": "MARMARIS CORRETORA DE CÂMBIO LTDA."
+  },
+  {
+    "COMPE": "698",
+    "LongName": "BIT SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "699",
+    "LongName": "BFC SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "701",
+    "LongName": "INTEGRAÇÃO DE CRÉDITO E COBRANÇA SOCIEDADE DE CRÉDITO DIRETO S.A."
+  },
+  {
+    "COMPE": "703",
+    "LongName": "GETNET ADQUIRÊNCIA E SERVIÇOS PARA MEIOS DE PAGAMENTO S.A. INSTITUIÇÃO DE PAGAMENTO"
+  },
+  {
+    "COMPE": "704",
+    "LongName": "FEATBANK INSTITUICAO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "707",
+    "LongName": "Banco Daycoval S.A."
+  },
+  {
+    "COMPE": "708",
+    "LongName": "BANCO INDUSCRED DE INVESTIMENTO S.A."
+  },
+  {
+    "COMPE": "712",
+    "LongName": "OURIBANK S.A. BANCO MÚLTIPLO"
+  },
+  {
+    "COMPE": "714",
+    "LongName": "FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "719",
+    "LongName": "BANCO MASTER MÚLTIPLO S.A."
+  },
+  {
+    "COMPE": "720",
+    "LongName": "BANCO RNX S.A."
+  },
+  {
+    "COMPE": "739",
+    "LongName": "Banco Cetelem S.A."
+  },
+  {
+    "COMPE": "741",
+    "LongName": "BANCO RIBEIRAO PRETO S.A."
+  },
+  {
+    "COMPE": "743",
+    "LongName": "Banco Semear S.A."
+  },
+  {
+    "COMPE": "745",
+    "LongName": "Banco Citibank S.A."
+  },
+  {
+    "COMPE": "746",
+    "LongName": "Banco Modal S.A."
+  },
+  {
+    "COMPE": "747",
+    "LongName": "Banco Rabobank International Brasil S.A."
+  },
+  {
+    "COMPE": "748",
+    "LongName": "BANCO COOPERATIVO SICREDI S.A."
+  },
+  {
+    "COMPE": "751",
+    "LongName": "Scotiabank Brasil S.A. Banco Múltiplo"
+  },
+  {
+    "COMPE": "752",
+    "LongName": "Banco BNP Paribas Brasil S.A."
+  },
+  {
+    "COMPE": "753",
+    "LongName": "Novo Banco Continental S.A. - Banco Múltiplo"
+  },
+  {
+    "COMPE": "754",
+    "LongName": "Banco Sistema S.A."
+  },
+  {
+    "COMPE": "755",
+    "LongName": "Bank of America Merrill Lynch Banco Múltiplo S.A."
+  },
+  {
+    "COMPE": "756",
+    "LongName": "BANCO COOPERATIVO SICOOB S.A. - BANCO SICOOB"
+  },
+  {
+    "COMPE": "757",
+    "LongName": "BANCO KEB HANA DO BRASIL S.A."
+  },
+  {
+    "COMPE": "759",
+    "LongName": "BANSUR JM SOCIEDADE DE CRÉDITO DIRETO S/A"
+  },
+  {
+    "COMPE": "760",
+    "LongName": "EMCASH SERVIÇOS FINANCEIROS SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A."
+  },
+  {
+    "COMPE": "761",
+    "LongName": "URBANO S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "762",
+    "LongName": "OPPENS SOCIEDADE DE EMPRESTIMO ENTRE PESSOAS S.A"
+  },
+  {
+    "COMPE": "763",
+    "LongName": "VUE INSTITUIÇÃO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "764",
+    "LongName": "INDEPENDÊNCIA COOPERATIVA DE CRÉDITO E INVESTIMENTO - INDEPENDÊNCIA COOPERATIVA DE CRÉDITO"
+  },
+  {
+    "COMPE": "766",
+    "LongName": "LB PAY INSTITUIÇÃO DE PAGAMENTO LTDA"
+  },
+  {
+    "COMPE": "768",
+    "LongName": "BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO"
+  },
+  {
+    "COMPE": "769",
+    "LongName": "99PAY INSTITUICAO DE PAGAMENTO S.A."
+  },
+  {
+    "COMPE": "772",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA"
+  }
+]
