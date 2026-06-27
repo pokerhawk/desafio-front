@@ -22,19 +22,23 @@ import { notify } from "../../utils/Toast/notify";
 import { getCache, setCache } from "../../utils/cache";
 import { Select } from "../../components/Select";
 import EyeIcon from "../../assets/icons/EyeIcon";
+import { Modal } from "../../components/Modal";
 
 const Dashboard = () => {
   const [isLoading, setIsLoading] = useState(false);
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [selectedTripId, setSelectedTripId] = useState("");
+  const [docType, setDocType] = useState("");
   const buildPassengerKey = (page: number, filters: any, rows: number) => {
     return `passengers:${page}:${rows}:${JSON.stringify(filters)}`;
   };
   const buildTripKey = (page: number, rows: number) => {
     return `trips:${page}-${rows}`;
   };
-  const { control, register, handleSubmit, setValue, watch, formState: { errors } } = useForm<CreatePassengerSchema>({
+  const { control, register, handleSubmit, formState: { errors }, reset } = useForm<CreatePassengerSchema>({
     resolver: yupResolver(createPassengerSchema),
     defaultValues: {
-      id: '',
+      trip_id: '',
       name: '',
       document: '',
       documentType: '',
@@ -45,8 +49,8 @@ const Dashboard = () => {
 
   const onSubmit = (data: CreatePassengerSchema) => {
     setIsLoading(true);
-    const submitData: any = {
-      id: data.id,
+    const submitData: CreatePassengerSchema = {
+      trip_id: data.trip_id,
       name: data.name,
       document: formatDocument(data.document),
       documentType: data.documentType,
@@ -65,6 +69,7 @@ const Dashboard = () => {
     }).catch(err=>{
       notify('error', err.response.data.message);
     }).finally(() => {
+      reset();
       loadPassenger(1);
       setIsLoading(false);
     });
@@ -84,8 +89,15 @@ const Dashboard = () => {
     document: "",
     documentType: "",
   });
-
   const [trips, setTrips] = useState({
+    data: [],
+    count: 0,
+    currentPage: 1,
+    nextPage: 2,
+    prevPage: 0,
+    lastPage: 1,
+  });
+  const [selectedPassengers, setSelectedPassengers] = useState({
     data: [],
     count: 0,
     currentPage: 1,
@@ -189,12 +201,67 @@ const Dashboard = () => {
       name: 'Detalhes',
       selector: (row) => row.status,
       format: (row) => (
-        <D.DetailActionLink to={`/trip/${row.id}`} aria-label="Ver detalhes">
+        <D.DetailActionLink onClick={()=>{setIsModalOpen(true);setSelectedTripId(row.id);loadSelectedPassenger(row.id)}} to={``} aria-label="Ver detalhes">
           <EyeIcon />
         </D.DetailActionLink>
       )
     }
 
+  ];
+
+  const selectedTripColumns: TableColumn<any>[] = [
+    {
+      name: "Nome",
+      selector: (row) => row.name,
+      cell: (row) => (
+        <span
+          style={{
+            fontWeight:
+              row.flight_class === "first_class"? "bold": "normal",
+            color:
+              row.flight_class === "first_class"? "#d4af37": "inherit",
+          }}
+        >
+          {row.name}
+        </span>
+      )
+    },
+    {
+      name: "Documento",
+      selector: (row) => row.document,
+      format: (row) => row.document,
+    },
+    {
+      name: "Tipo",
+      selector: (row) => row.documentType,
+      format: (row) => `${documentTypeFormat(row.documentType)}`,
+    },
+    {
+      name: "Nº Assento",
+      selector: (row) => row.seat_number,
+      format: (row) => row.seat_number,
+    },
+    {
+      name: "Classe",
+      selector: (row) => row.flight_class,
+      cell: (row) => (
+        <span
+          style={{
+            fontWeight:
+              row.flight_class === "first_class"? "bold": "normal",
+            color:
+              row.flight_class === "first_class"? "#d4af37": "inherit",
+          }}
+        >
+          {flightClassFormat(row.flight_class)}
+        </span>
+      )
+    },
+    {
+      name: "Criado em",
+      selector: (row) => row.createdAt,
+      format: (row) => `${formatDate(row.createdAt)}`,
+    },
   ];
 
   const loadPassenger = async (page: number = 1) => {
@@ -211,6 +278,18 @@ const Dashboard = () => {
       }
       setCache(key, response);
       setPassengers(response);
+    } catch (error) {
+      throw error;
+    }
+  };
+
+  const loadSelectedPassenger = async (tripId: string, page: number = 1) => {
+    try {
+      const response = await getPassengers(rowsPerPage, page, { tripId });
+      if(!response){
+        throw new Error("Invalid passenger response");
+      }
+      setSelectedPassengers(response);
     } catch (error) {
       throw error;
     }
@@ -245,6 +324,10 @@ const Dashboard = () => {
     await loadTrips(page);
   };
 
+  const handlePaginationSelected = async (page: number, totalCount: number) => {
+    await loadSelectedPassenger(selectedTripId, page);
+  };
+
   const clearFilters = () => {
     setFilters({
       name: "",
@@ -266,6 +349,14 @@ const Dashboard = () => {
 
   return (
     <>
+      {isModalOpen && (
+        <Modal
+          open={isModalOpen}
+          onClose={()=>{setIsModalOpen(false)}}
+          title="Lista de passageiros nesta viagem"
+          size="lg"
+        />
+      )}
       <Header />
       <PageContent padding="md">
         <S.CreateLinkWrapper>
@@ -286,13 +377,13 @@ const Dashboard = () => {
                           placeholder="Fulano"
                           value={value}
                           error={errors?.name?.message}
-                          {...register("name")}
+                          onChange={onChange}
                         />
                       </S.FieldWrapper>
                     )}
                   />
                   <Controller
-                    name="id"
+                    name="trip_id"
                     control={control}
                     render={({ field: { onChange, value } }) => (
                       <S.FieldWrapper>
@@ -301,24 +392,8 @@ const Dashboard = () => {
                           label="ID da viagem"
                           placeholder="TRIP_0000"
                           value={value}
-                          error={errors?.id?.message}
-                          {...register("id")}
-                        />
-                      </S.FieldWrapper>
-                    )}
-                  />
-                  <Controller
-                    name="document"
-                    control={control}
-                    render={({ field: { onChange, value } }) => (
-                      <S.FieldWrapper>
-                        <Input
-                          inputMode="numeric"
-                          label="Documento"
-                          placeholder="123.456.789-00"
-                          value={value}
-                          error={errors?.document?.message}
-                          {...register("document")}
+                          error={errors?.trip_id?.message}
+                          onChange={onChange}
                         />
                       </S.FieldWrapper>
                     )}
@@ -335,11 +410,49 @@ const Dashboard = () => {
                           options={[{value: "cpf", label: "cpf"}, {value: "passport", label: "passaporte"}]}
                           value={value}
                           error={errors?.documentType?.message}
-                          {...register("documentType")}
+                          onChange={(e)=> {
+                            onChange(e.target.value);
+                            setDocType(e.target.value);
+                          }}
                         />
                       </S.FieldWrapper>
                     )}
                   />
+                  {docType === 'cpf'? (
+                    <Controller
+                      name="document"
+                      control={control}
+                      render={({ field: { onChange, value } }) => (
+                        <S.FieldWrapper>
+                          <Input
+                            inputMode="numeric"
+                            label="CPF"
+                            placeholder="123.456.789-00"
+                            value={value}
+                            error={errors?.document?.message}
+                            onChange={onChange}
+                          />
+                        </S.FieldWrapper>
+                      )}
+                    />
+                  ):docType === 'passport'? (
+                    <Controller
+                      name="document"
+                      control={control}
+                      render={({ field: { onChange, value } }) => (
+                        <S.FieldWrapper>
+                          <Input
+                            inputMode="numeric"
+                            label="Passaporte"
+                            placeholder="MG123456"
+                            value={value}
+                            error={errors?.document?.message}
+                            onChange={onChange}
+                          />
+                        </S.FieldWrapper>
+                      )}
+                    />
+                  ) :null}
                   <Controller
                     name="seat_number"
                     control={control}
@@ -351,7 +464,7 @@ const Dashboard = () => {
                           placeholder="10"
                           value={value}
                           error={errors?.seat_number?.message}
-                          {...register("seat_number")}
+                          onChange={onChange}
                         />
                       </S.FieldWrapper>
                     )}
@@ -372,7 +485,7 @@ const Dashboard = () => {
                           ]}
                           value={value}
                           error={errors?.flight_class?.message}
-                          {...register("flight_class")}
+                          onChange={onChange}
                         />
                       </S.FieldWrapper>
                     )}
@@ -471,6 +584,46 @@ const Dashboard = () => {
 
             {/*////////////////////////////////////////////////////////////////////////////////*/}
 
+            <Modal
+              open={isModalOpen}
+              onClose={()=>{setIsModalOpen(false)}}
+              title="Lista de passageiros nesta viagem"
+              size="xl"
+            >
+              <PageContent>
+                <Card>
+                  <Card.Body>
+                    <D.Wrapper>
+                      <DataTable
+                        columns={selectedTripColumns}
+                        data={selectedPassengers.data}
+                        fixedHeader
+                        noDataComponent={<p>Nenhum registro encontrado</p>}
+                      />
+                    </D.Wrapper>
+
+                    <S.PaginationBar>
+                      <S.PaginationInfo>
+                        {selectedPassengers.count === 0
+                          ? "Nenhum registro"
+                          : `Mostrando ${(selectedPassengers.currentPage - 1) * rowsPerPage + 1}-${Math.min(selectedPassengers.currentPage * rowsPerPage, selectedPassengers.count)} de ${selectedPassengers.count}`}
+                      </S.PaginationInfo>
+                      <PaginationTable
+                        onChangePage={handlePaginationSelected}
+                        currentPage={selectedPassengers.currentPage}
+                        totalCount={selectedPassengers.count}
+                        rowsPerPage={rowsPerPage}
+                        rowCount={selectedPassengers.count}
+                        disabled={selectedPassengers.count === 0}
+                      />
+                    </S.PaginationBar>
+                  </Card.Body>
+                </Card>
+              </PageContent>
+
+              {/*////////////////////////////////////////////////////////////////////////////////*/}
+
+            </Modal>
             <Card.Header title="Lista de Viagens" />
             <Card.Body>
               <D.Wrapper>

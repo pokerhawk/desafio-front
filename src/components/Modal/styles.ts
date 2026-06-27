@@ -33,7 +33,7 @@ export const ModalWrapper = styled.div<{ $size: ModalSize; $width?: string }>`
   transform: translate(-50%, -50%);
   width: ${({ $size, $width }) => $width || sizeMap[$size]};
   max-width: calc(100vw - 32px);
-  max-height: calc(100vh - 48px);
+  max-height: calc(80vh - 48px);
   display: flex;
   flex-direction: column;
   background: ${({ theme }) => theme.ds.color.surface.card};

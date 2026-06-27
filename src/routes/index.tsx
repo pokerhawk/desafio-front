@@ -5,7 +5,6 @@ import Login from "../pages/Login";
 import Register from "../pages/Register";
 import ErrorPage from "../pages/Error";
 import Analytics from "../pages/Analytics";
-import TripInfo from "../pages/TripInfo";
 
 const AllRoutes = () => {
     return (
@@ -19,11 +18,6 @@ const AllRoutes = () => {
             <Route path='/analytics' element={
                 <ProtectedRoute>
                     <Analytics />
-                </ProtectedRoute>
-            } />
-            <Route path='/trip/:id' element={
-                <ProtectedRoute>
-                    <TripInfo />
                 </ProtectedRoute>
             } />
 
